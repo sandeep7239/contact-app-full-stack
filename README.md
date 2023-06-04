@@ -18,7 +18,7 @@ MyContact is a MERN stack project that allows users to manage their contacts. Th
 1. Clone the repository:
 
    ```
-   git clone <>
+   git clone <https://github.com/sandeep7239/contact-app-full-stack.git>
    ```
 
 2. Install the dependencies:
@@ -66,13 +66,9 @@ MyContact is a MERN stack project that allows users to manage their contacts. Th
 
 ## Frontend
 
-The frontend code for the MyContact project is located in a separate repository. You can find it [here](<frontend_repository_url>).
+The frontend code for the MyContact project is located in a separate repository. You can find it [here](<>).
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-Feel free to customize the README file as per your project requirements and add any additional information you deem necessary.
 
 ## Contact App Screenshot
 ![xeno1](https://github.com/sandeep7239/contact-app-full-stack/assets/88778019/a67bcb97-652f-4e62-96ad-36d9a98a9074)
