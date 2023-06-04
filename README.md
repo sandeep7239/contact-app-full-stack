@@ -5,7 +5,7 @@ To create a README file for your MERN stack project "mycontact", you can follow 
 MyContact is a MERN stack project that allows users to manage their contacts. This repository contains the backend code for the project.
 
 ## Technologies Used
-
+- React.js
 - Node.js
 - Express.js
 - MongoDB
